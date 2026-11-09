@@ -1,0 +1,451 @@
+﻿post_id,comment_text,language_type,topic,sentiment,purchase_intent
+P015,"Ordered last week, still waiting for delivery.",English,delivery,Negative,Low
+P015,"Ordered last week, still waiting for delivery.",English,delivery,Negative,Low
+P015,"Ordered last week, still waiting for delivery.",English,delivery,Negative,Low
+P015,"Ordered last week, still waiting for delivery.",English,delivery,Negative,None
+P015,"Ordered last week, still waiting for delivery.",English,delivery,Negative,Low
+P015,Last week order kiya tha abhi tak parcel nahi aya.,Roman Urdu,delivery,Negative,None
+P015,"Ordered last week, still waiting for delivery.",English,delivery,Negative,Low
+P015,پچھلے ہفتے آرڈر کیا تھا، ابھی تک پارسل نہیں آیا۔,Urdu,delivery,Negative,None
+P015,"Ordered last week, still waiting for delivery.",English,delivery,Negative,None
+P015,Last week order kiya tha abhi tak parcel nahi aya.,Roman Urdu,delivery,Negative,Low
+P015,"Ordered last week, still waiting for delivery.",English,delivery,Negative,Low
+P015,پچھلے ہفتے آرڈر کیا تھا، ابھی تک پارسل نہیں آیا۔,Urdu,delivery,Negative,None
+P015,Last week order kiya tha abhi tak parcel nahi aya.,Roman Urdu,delivery,Negative,None
+P015,Last week order kiya tha abhi tak parcel nahi aya.,Roman Urdu,delivery,Negative,None
+P015,پچھلے ہفتے آرڈر کیا تھا، ابھی تک پارسل نہیں آیا۔,Urdu,delivery,Negative,Low
+P015,پچھلے ہفتے آرڈر کیا تھا، ابھی تک پارسل نہیں آیا۔,Urdu,delivery,Negative,Low
+P015,"Ordered last week, still waiting for delivery.",English,delivery,Negative,None
+P015,پچھلے ہفتے آرڈر کیا تھا، ابھی تک پارسل نہیں آیا۔,Urdu,delivery,Negative,None
+P015,"Ordered last week, still waiting for delivery.",English,delivery,Negative,Low
+P015,"Ordered last week, still waiting for delivery.",English,delivery,Negative,Low
+P015,پچھلے ہفتے آرڈر کیا تھا، ابھی تک پارسل نہیں آیا۔,Urdu,delivery,Negative,None
+P015,"Ordered last week, still waiting for delivery.",English,delivery,Negative,None
+P015,"Ordered last week, still waiting for delivery.",English,delivery,Negative,None
+P015,Last week order kiya tha abhi tak parcel nahi aya.,Roman Urdu,delivery,Negative,Low
+P015,"Ordered last week, still waiting for delivery.",English,delivery,Negative,None
+P015,پچھلے ہفتے آرڈر کیا تھا، ابھی تک پارسل نہیں آیا۔,Urdu,delivery,Negative,Low
+P015,"Ordered last week, still waiting for delivery.",English,delivery,Negative,Low
+P015,"Ordered last week, still waiting for delivery.",English,delivery,Negative,Low
+P015,"Ordered last week, still waiting for delivery.",English,delivery,Negative,None
+P015,Last week order kiya tha abhi tak parcel nahi aya.,Roman Urdu,delivery,Negative,None
+P015,"Ordered last week, still waiting for delivery.",English,delivery,Negative,None
+P015,"Ordered last week, still waiting for delivery.",English,delivery,Negative,Low
+P015,Last week order kiya tha abhi tak parcel nahi aya.,Roman Urdu,delivery,Negative,Low
+P015,Last week order kiya tha abhi tak parcel nahi aya.,Roman Urdu,delivery,Negative,None
+P015,Last week order kiya tha abhi tak parcel nahi aya.,Roman Urdu,delivery,Negative,None
+P015,Last week order kiya tha abhi tak parcel nahi aya.,Roman Urdu,delivery,Negative,None
+P015,"Ordered last week, still waiting for delivery.",English,delivery,Negative,Low
+P015,Last week order kiya tha abhi tak parcel nahi aya.,Roman Urdu,delivery,Negative,Low
+P015,"Ordered last week, still waiting for delivery.",English,delivery,Negative,Low
+P015,پچھلے ہفتے آرڈر کیا تھا، ابھی تک پارسل نہیں آیا۔,Urdu,delivery,Negative,None
+P015,"Ordered last week, still waiting for delivery.",English,delivery,Negative,Low
+P015,پچھلے ہفتے آرڈر کیا تھا، ابھی تک پارسل نہیں آیا۔,Urdu,delivery,Negative,None
+P015,پچھلے ہفتے آرڈر کیا تھا، ابھی تک پارسل نہیں آیا۔,Urdu,delivery,Negative,Low
+P015,"Ordered last week, still waiting for delivery.",English,delivery,Negative,Low
+P015,"Ordered last week, still waiting for delivery.",English,delivery,Negative,Low
+P020,What is the price of this suit?,English,price,Neutral,Low
+P004,کپڑے کا معیار بہت اچھا ہے۔,Urdu,fabric_quality,Positive,High
+P020,قیمت مناسب لگ رہی ہے۔,Urdu,price,Positive,Low
+P009,Delivery kitne din mein hogi?,Roman Urdu,delivery,Neutral,Low
+P009,اچھا ہوا یہ ڈیزائن دوبارہ دستیاب ہے۔,Urdu,availability,Positive,Low
+P015,The size is smaller than expected.,English,sizing,Negative,Low
+P015,The fabric quality is disappointing.,English,fabric_quality,Negative,Low
+P018,How many days will delivery take?,English,delivery,Neutral,None
+P003,My order arrived on time.,English,delivery,Positive,Low
+P018,بہت اچھا ڈسکاؤنٹ ہے۔,Urdu,discount,Positive,High
+P022,اس کی مزید تصاویر شیئر کر دیں۔,Urdu,general_praise,Neutral,Low
+P005,The size fits perfectly.,English,sizing,Positive,High
+P009,کیا چھوٹے اور درمیانے سائز دستیاب ہیں؟,Urdu,sizing,Neutral,Low
+P007,Koi discount available hai?,Roman Urdu,discount,Neutral,None
+P016,The size is smaller than expected.,English,sizing,Negative,Low
+P021,My size is always out of stock.,English,availability,Negative,Low
+P011,Bohat khoobsurat dress hai.,Roman Urdu,general_praise,Positive,High
+P024,Ye Karachi mein available hai?,Roman Urdu,availability,Neutral,None
+P001,قیمت مناسب لگ رہی ہے۔,Urdu,price,Positive,High
+P018,قیمت بہت زیادہ ہے۔,Urdu,price,Negative,Low
+P014,Meri delivery time par mil gayi.,Roman Urdu,delivery,Positive,High
+P012,ڈیلیوری کتنے دن میں ہوگی؟,Urdu,delivery,Neutral,Low
+P012,Iski aur pictures share kar dein.,Roman Urdu,general_praise,Neutral,Low
+P008,This dress is absolutely beautiful!,English,general_praise,Positive,Low
+P001,Delivery kitne din mein hogi?,Roman Urdu,delivery,Neutral,None
+P022,Can you share more pictures?,English,general_praise,Neutral,None
+P006,Iski aur pictures share kar dein.,Roman Urdu,general_praise,Neutral,Low
+P016,Meri delivery time par mil gayi.,Roman Urdu,delivery,Positive,Low
+P010,Can you share more pictures?,English,general_praise,Neutral,Low
+P001,"Discount bohat acha hai, order karungi.",Roman Urdu,discount,Positive,Low
+P003,بہت خوبصورت ڈریس ہے۔,Urdu,general_praise,Positive,Low
+P022,Can you share more pictures?,English,general_praise,Neutral,Low
+P009,Delivery kitne din mein hogi?,Roman Urdu,delivery,Neutral,Low
+P004,کپڑے کا معیار بہت اچھا ہے۔,Urdu,fabric_quality,Positive,Low
+P014,The fabric quality is disappointing.,English,fabric_quality,Negative,None
+P019,میرا آرڈر وقت پر پہنچ گیا۔,Urdu,delivery,Positive,Low
+P001,کپڑے کا معیار اچھا نہیں ہے۔,Urdu,fabric_quality,Negative,Low
+P012,اچھا ہوا یہ ڈیزائن دوبارہ دستیاب ہے۔,Urdu,availability,Positive,Low
+P020,Do you have small and medium sizes?,English,sizing,Neutral,None
+P010,Fabric ki quality bohat achi hai.,Roman Urdu,fabric_quality,Positive,Low
+P013,"Great discount, definitely worth buying!",English,discount,Positive,High
+P014,ڈسکاؤنٹ بہت کم ہے۔,Urdu,discount,Negative,Low
+P020,کپڑے کا معیار بہت اچھا ہے۔,Urdu,fabric_quality,Positive,High
+P010,سائز بالکل درست ہے۔,Urdu,sizing,Positive,Low
+P015,Glad this design is back in stock!,English,availability,Positive,Low
+P024,Delivery kitne din mein hogi?,Roman Urdu,delivery,Neutral,None
+P003,The design looks different from the pictures.,English,general_praise,Negative,None
+P008,This dress is absolutely beautiful!,English,general_praise,Positive,High
+P008,Is this available in Karachi?,English,availability,Neutral,Low
+P014,کیا کوئی ڈسکاؤنٹ دستیاب ہے؟,Urdu,discount,Neutral,None
+P013,Glad this design is back in stock!,English,availability,Positive,High
+P025,Can you share more pictures?,English,general_praise,Neutral,None
+P008,پچھلے ہفتے آرڈر کیا تھا، ابھی تک پارسل نہیں آیا۔,Urdu,delivery,Negative,None
+P002,The fabric quality looks amazing.,English,fabric_quality,Positive,Low
+P005,اس کی مزید تصاویر شیئر کر دیں۔,Urdu,general_praise,Neutral,None
+P025,کیا یہ ڈیزائن دستیاب ہے؟,Urdu,availability,Neutral,None
+P014,Pictures mein design different lag raha tha.,Roman Urdu,general_praise,Negative,Low
+P024,Iski aur pictures share kar dein.,Roman Urdu,general_praise,Neutral,Low
+P021,کیا چھوٹے اور درمیانے سائز دستیاب ہیں؟,Urdu,sizing,Neutral,Low
+P021,My order arrived on time.,English,delivery,Positive,Low
+P008,سائز بالکل درست ہے۔,Urdu,sizing,Positive,High
+P005,میرا آرڈر وقت پر پہنچ گیا۔,Urdu,delivery,Positive,High
+P023,Meri delivery time par mil gayi.,Roman Urdu,delivery,Positive,Low
+P018,Glad this design is back in stock!,English,availability,Positive,Low
+P013,اس کی مزید تصاویر شیئر کر دیں۔,Urdu,general_praise,Neutral,Low
+P025,The fabric quality looks amazing.,English,fabric_quality,Positive,Low
+P010,Bohat khoobsurat dress hai.,Roman Urdu,general_praise,Positive,High
+P016,Meri delivery time par mil gayi.,Roman Urdu,delivery,Positive,High
+P013,Small aur medium dono available hain?,Roman Urdu,sizing,Neutral,None
+P006,Can you share more pictures?,English,general_praise,Neutral,Low
+P013,How is the fabric quality?,English,fabric_quality,Neutral,Low
+P021,Acha hua ye design dobara available hai.,Roman Urdu,availability,Positive,High
+P002,The size fits perfectly.,English,sizing,Positive,Low
+P011,Small aur medium dono available hain?,Roman Urdu,sizing,Neutral,Low
+P025,This dress is absolutely beautiful!,English,general_praise,Positive,Low
+P001,Koi discount available hai?,Roman Urdu,discount,Neutral,High
+P021,قیمت کتنی ہے؟,Urdu,price,Neutral,High
+P025,The price is too expensive.,English,price,Negative,Low
+P020,Meri delivery time par mil gayi.,Roman Urdu,delivery,Positive,High
+P019,Delivery kitne din mein hogi?,Roman Urdu,delivery,Neutral,None
+P006,کپڑے کا معیار کیسا ہے؟,Urdu,fabric_quality,Neutral,Low
+P025,Bohat khoobsurat dress hai.,Roman Urdu,general_praise,Positive,High
+P019,قیمت بہت زیادہ ہے۔,Urdu,price,Negative,None
+P013,بہت اچھا ڈسکاؤنٹ ہے۔,Urdu,discount,Positive,High
+P004,کیا کوئی ڈسکاؤنٹ دستیاب ہے؟,Urdu,discount,Neutral,None
+P004,The design looks different from the pictures.,English,general_praise,Negative,None
+P018,Is this available in Karachi?,English,availability,Neutral,None
+P021,Size bilkul perfect hai.,Roman Urdu,sizing,Positive,Low
+P004,میرا سائز ہمیشہ دستیاب نہیں ہوتا۔,Urdu,availability,Negative,None
+P023,میرا آرڈر وقت پر پہنچ گیا۔,Urdu,delivery,Positive,Low
+P020,Pictures mein design different lag raha tha.,Roman Urdu,general_praise,Negative,None
+P014,Iski aur pictures share kar dein.,Roman Urdu,general_praise,Neutral,None
+P008,Pictures mein design different lag raha tha.,Roman Urdu,general_praise,Negative,None
+P008,اس کی مزید تصاویر شیئر کر دیں۔,Urdu,general_praise,Neutral,None
+P011,Is suit ki price kya hai?,Roman Urdu,price,Neutral,High
+P016,Meri delivery time par mil gayi.,Roman Urdu,delivery,Positive,Low
+P009,Fabric kaisa hai?,Roman Urdu,fabric_quality,Neutral,Low
+P017,میرا آرڈر وقت پر پہنچ گیا۔,Urdu,delivery,Positive,Low
+P016,کپڑے کا معیار کیسا ہے؟,Urdu,fabric_quality,Neutral,None
+P021,Is there any discount available?,English,discount,Neutral,High
+P010,My order arrived on time.,English,delivery,Positive,Low
+P022,کپڑے کا معیار بہت اچھا ہے۔,Urdu,fabric_quality,Positive,Low
+P014,Koi discount available hai?,Roman Urdu,discount,Neutral,None
+P015,The size fits perfectly.,English,sizing,Positive,High
+P024,میرا آرڈر وقت پر پہنچ گیا۔,Urdu,delivery,Positive,High
+P007,Delivery kitne din mein hogi?,Roman Urdu,delivery,Neutral,None
+P004,This dress is absolutely beautiful!,English,general_praise,Positive,Low
+P006,سائز بالکل درست ہے۔,Urdu,sizing,Positive,High
+P009,قیمت بہت زیادہ ہے۔,Urdu,price,Negative,None
+P023,Delivery kitne din mein hogi?,Roman Urdu,delivery,Neutral,Low
+P001,Fabric ki quality bohat achi hai.,Roman Urdu,fabric_quality,Positive,Low
+P011,Last week order kiya tha abhi tak parcel nahi aya.,Roman Urdu,delivery,Negative,None
+P004,Bohat khoobsurat dress hai.,Roman Urdu,general_praise,Positive,High
+P019,Is there any discount available?,English,discount,Neutral,High
+P019,The size fits perfectly.,English,sizing,Positive,High
+P018,بہت خوبصورت ڈریس ہے۔,Urdu,general_praise,Positive,High
+P025,Fabric ki quality bohat achi hai.,Roman Urdu,fabric_quality,Positive,Low
+P019,اچھا ہوا یہ ڈیزائن دوبارہ دستیاب ہے۔,Urdu,availability,Positive,High
+P020,"Great discount, definitely worth buying!",English,discount,Positive,High
+P009,"Great discount, definitely worth buying!",English,discount,Positive,High
+P018,Price quality ke hisaab se achi hai.,Roman Urdu,price,Positive,Low
+P023,How is the fabric quality?,English,fabric_quality,Neutral,Low
+P010,"Discount bohat acha hai, order karungi.",Roman Urdu,discount,Positive,High
+P022,پچھلے ہفتے آرڈر کیا تھا، ابھی تک پارسل نہیں آیا۔,Urdu,delivery,Negative,Low
+P014,قیمت کتنی ہے؟,Urdu,price,Neutral,High
+P009,This dress is absolutely beautiful!,English,general_praise,Positive,High
+P010,کپڑے کا معیار کیسا ہے؟,Urdu,fabric_quality,Neutral,None
+P015,Is suit ki price kya hai?,Roman Urdu,price,Neutral,None
+P013,Small aur medium dono available hain?,Roman Urdu,sizing,Neutral,Low
+P003,Fabric ki quality bohat achi hai.,Roman Urdu,fabric_quality,Positive,Low
+P020,The size fits perfectly.,English,sizing,Positive,High
+P025,ڈسکاؤنٹ بہت کم ہے۔,Urdu,discount,Negative,Low
+P025,بہت خوبصورت ڈریس ہے۔,Urdu,general_praise,Positive,Low
+P009,Last week order kiya tha abhi tak parcel nahi aya.,Roman Urdu,delivery,Negative,None
+P003,Acha hua ye design dobara available hai.,Roman Urdu,availability,Positive,Low
+P022,Price bohat zyada hai.,Roman Urdu,price,Negative,None
+P023,Acha hua ye design dobara available hai.,Roman Urdu,availability,Positive,High
+P015,Price quality ke hisaab se achi hai.,Roman Urdu,price,Positive,High
+P025,My size is always out of stock.,English,availability,Negative,None
+P014,Price quality ke hisaab se achi hai.,Roman Urdu,price,Positive,Low
+P021,Is this available in Karachi?,English,availability,Neutral,Low
+P018,Last week order kiya tha abhi tak parcel nahi aya.,Roman Urdu,delivery,Negative,None
+P004,قیمت بہت زیادہ ہے۔,Urdu,price,Negative,Low
+P023,My order arrived on time.,English,delivery,Positive,Low
+P003,"Ordered last week, still waiting for delivery.",English,delivery,Negative,None
+P004,Discount bohat kam hai.,Roman Urdu,discount,Negative,None
+P017,"Discount bohat acha hai, order karungi.",Roman Urdu,discount,Positive,Low
+P008,Ye Karachi mein available hai?,Roman Urdu,availability,Neutral,High
+P020,How is the fabric quality?,English,fabric_quality,Neutral,Low
+P009,Iski aur pictures share kar dein.,Roman Urdu,general_praise,Neutral,None
+P017,Size expected se chota nikla.,Roman Urdu,sizing,Negative,None
+P019,Fabric ki quality bilkul achi nahi.,Roman Urdu,fabric_quality,Negative,Low
+P015,Fabric kaisa hai?,Roman Urdu,fabric_quality,Neutral,None
+P015,سائز توقع سے چھوٹا نکلا۔,Urdu,sizing,Negative,Low
+P019,Acha hua ye design dobara available hai.,Roman Urdu,availability,Positive,High
+P011,Koi discount available hai?,Roman Urdu,discount,Neutral,Low
+P022,The design looks different from the pictures.,English,general_praise,Negative,None
+P002,ڈیلیوری کتنے دن میں ہوگی؟,Urdu,delivery,Neutral,None
+P004,The design looks different from the pictures.,English,general_praise,Negative,None
+P001,بہت اچھا ڈسکاؤنٹ ہے۔,Urdu,discount,Positive,High
+P003,Ye Karachi mein available hai?,Roman Urdu,availability,Neutral,Low
+P020,"Great discount, definitely worth buying!",English,discount,Positive,Low
+P022,Iski aur pictures share kar dein.,Roman Urdu,general_praise,Neutral,None
+P018,What is the price of this suit?,English,price,Neutral,None
+P022,سائز توقع سے چھوٹا نکلا۔,Urdu,sizing,Negative,Low
+P014,قیمت کتنی ہے؟,Urdu,price,Neutral,High
+P015,How many days will delivery take?,English,delivery,Neutral,Low
+P011,Bohat khoobsurat dress hai.,Roman Urdu,general_praise,Positive,Low
+P014,Meri delivery time par mil gayi.,Roman Urdu,delivery,Positive,High
+P006,Meri delivery time par mil gayi.,Roman Urdu,delivery,Positive,High
+P016,Fabric ki quality bohat achi hai.,Roman Urdu,fabric_quality,Positive,Low
+P015,Small aur medium dono available hain?,Roman Urdu,sizing,Neutral,Low
+P022,Fabric ki quality bohat achi hai.,Roman Urdu,fabric_quality,Positive,Low
+P019,Small aur medium dono available hain?,Roman Urdu,sizing,Neutral,None
+P009,My size is always out of stock.,English,availability,Negative,None
+P016,قیمت مناسب لگ رہی ہے۔,Urdu,price,Positive,Low
+P019,Size expected se chota nikla.,Roman Urdu,sizing,Negative,Low
+P022,اچھا ہوا یہ ڈیزائن دوبارہ دستیاب ہے۔,Urdu,availability,Positive,High
+P020,Koi discount available hai?,Roman Urdu,discount,Neutral,High
+P020,بہت خوبصورت ڈریس ہے۔,Urdu,general_praise,Positive,High
+P020,کیا چھوٹے اور درمیانے سائز دستیاب ہیں؟,Urdu,sizing,Neutral,None
+P022,This dress is absolutely beautiful!,English,general_praise,Positive,High
+P010,بہت خوبصورت ڈریس ہے۔,Urdu,general_praise,Positive,Low
+P024,Meri delivery time par mil gayi.,Roman Urdu,delivery,Positive,Low
+P024,Glad this design is back in stock!,English,availability,Positive,Low
+P017,The fabric quality is disappointing.,English,fabric_quality,Negative,None
+P016,Bohat khoobsurat dress hai.,Roman Urdu,general_praise,Positive,High
+P015,The price seems reasonable for this design.,English,price,Positive,Low
+P018,Size bilkul perfect hai.,Roman Urdu,sizing,Positive,High
+P009,Fabric ki quality bohat achi hai.,Roman Urdu,fabric_quality,Positive,Low
+P019,Mera size hamesha out of stock hota hai.,Roman Urdu,availability,Negative,Low
+P022,ڈیلیوری کتنے دن میں ہوگی؟,Urdu,delivery,Neutral,None
+P020,ڈیلیوری کتنے دن میں ہوگی؟,Urdu,delivery,Neutral,None
+P023,Do you have small and medium sizes?,English,sizing,Neutral,High
+P002,Price quality ke hisaab se achi hai.,Roman Urdu,price,Positive,High
+P004,"Ordered last week, still waiting for delivery.",English,delivery,Negative,None
+P015,کیا چھوٹے اور درمیانے سائز دستیاب ہیں؟,Urdu,sizing,Neutral,None
+P018,کیا یہ ڈیزائن دستیاب ہے؟,Urdu,availability,Neutral,High
+P014,"Discount bohat acha hai, order karungi.",Roman Urdu,discount,Positive,Low
+P009,What is the price of this suit?,English,price,Neutral,Low
+P015,"Ordered last week, still waiting for delivery.",English,delivery,Negative,None
+P018,"Discount bohat acha hai, order karungi.",Roman Urdu,discount,Positive,Low
+P007,Price bohat zyada hai.,Roman Urdu,price,Negative,Low
+P022,ڈیلیوری کتنے دن میں ہوگی؟,Urdu,delivery,Neutral,Low
+P002,This dress is absolutely beautiful!,English,general_praise,Positive,High
+P003,Can you share more pictures?,English,general_praise,Neutral,Low
+P008,کیا چھوٹے اور درمیانے سائز دستیاب ہیں؟,Urdu,sizing,Neutral,High
+P009,The design looks different from the pictures.,English,general_praise,Negative,None
+P006,What is the price of this suit?,English,price,Neutral,High
+P001,Do you have small and medium sizes?,English,sizing,Neutral,None
+P011,The price seems reasonable for this design.,English,price,Positive,High
+P024,کیا یہ ڈیزائن دستیاب ہے؟,Urdu,availability,Neutral,High
+P016,کیا یہ ڈیزائن دستیاب ہے؟,Urdu,availability,Neutral,None
+P004,کیا یہ ڈیزائن دستیاب ہے؟,Urdu,availability,Neutral,High
+P024,تصاویر میں ڈیزائن مختلف لگ رہا تھا۔,Urdu,general_praise,Negative,None
+P015,The discount is too small.,English,discount,Negative,None
+P013,Ye Karachi mein available hai?,Roman Urdu,availability,Neutral,None
+P015,Price bohat zyada hai.,Roman Urdu,price,Negative,Low
+P003,میرا آرڈر وقت پر پہنچ گیا۔,Urdu,delivery,Positive,Low
+P013,Fabric kaisa hai?,Roman Urdu,fabric_quality,Neutral,None
+P004,اس کی مزید تصاویر شیئر کر دیں۔,Urdu,general_praise,Neutral,Low
+P014,Mera size hamesha out of stock hota hai.,Roman Urdu,availability,Negative,None
+P015,Glad this design is back in stock!,English,availability,Positive,Low
+P014,Small aur medium dono available hain?,Roman Urdu,sizing,Neutral,High
+P022,Glad this design is back in stock!,English,availability,Positive,High
+P014,Is suit ki price kya hai?,Roman Urdu,price,Neutral,High
+P018,قیمت کتنی ہے؟,Urdu,price,Neutral,None
+P011,"Discount bohat acha hai, order karungi.",Roman Urdu,discount,Positive,Low
+P024,قیمت بہت زیادہ ہے۔,Urdu,price,Negative,None
+P012,What is the price of this suit?,English,price,Neutral,High
+P022,Glad this design is back in stock!,English,availability,Positive,Low
+P018,Size bilkul perfect hai.,Roman Urdu,sizing,Positive,High
+P014,اس کی مزید تصاویر شیئر کر دیں۔,Urdu,general_praise,Neutral,Low
+P020,Discount bohat kam hai.,Roman Urdu,discount,Negative,Low
+P006,Small aur medium dono available hain?,Roman Urdu,sizing,Neutral,Low
+P012,The price seems reasonable for this design.,English,price,Positive,Low
+P003,How many days will delivery take?,English,delivery,Neutral,Low
+P024,Fabric ki quality bohat achi hai.,Roman Urdu,fabric_quality,Positive,Low
+P011,میرا آرڈر وقت پر پہنچ گیا۔,Urdu,delivery,Positive,Low
+P025,How is the fabric quality?,English,fabric_quality,Neutral,Low
+P006,اس کی مزید تصاویر شیئر کر دیں۔,Urdu,general_praise,Neutral,Low
+P009,Ye Karachi mein available hai?,Roman Urdu,availability,Neutral,None
+P015,اچھا ہوا یہ ڈیزائن دوبارہ دستیاب ہے۔,Urdu,availability,Positive,High
+P012,اچھا ہوا یہ ڈیزائن دوبارہ دستیاب ہے۔,Urdu,availability,Positive,Low
+P017,"Great discount, definitely worth buying!",English,discount,Positive,Low
+P020,Price quality ke hisaab se achi hai.,Roman Urdu,price,Positive,High
+P025,Delivery kitne din mein hogi?,Roman Urdu,delivery,Neutral,None
+P004,Is suit ki price kya hai?,Roman Urdu,price,Neutral,High
+P005,Is this available in Karachi?,English,availability,Neutral,None
+P018,Iski aur pictures share kar dein.,Roman Urdu,general_praise,Neutral,Low
+P013,Iski aur pictures share kar dein.,Roman Urdu,general_praise,Neutral,Low
+P015,قیمت بہت زیادہ ہے۔,Urdu,price,Negative,None
+P019,Ye Karachi mein available hai?,Roman Urdu,availability,Neutral,Low
+P004,Acha hua ye design dobara available hai.,Roman Urdu,availability,Positive,High
+P020,Mera size hamesha out of stock hota hai.,Roman Urdu,availability,Negative,Low
+P014,Bohat khoobsurat dress hai.,Roman Urdu,general_praise,Positive,Low
+P017,Price quality ke hisaab se achi hai.,Roman Urdu,price,Positive,Low
+P008,Do you have small and medium sizes?,English,sizing,Neutral,None
+P021,What is the price of this suit?,English,price,Neutral,Low
+P012,ڈسکاؤنٹ بہت کم ہے۔,Urdu,discount,Negative,Low
+P008,The price seems reasonable for this design.,English,price,Positive,High
+P020,ڈیلیوری کتنے دن میں ہوگی؟,Urdu,delivery,Neutral,Low
+P006,Iski aur pictures share kar dein.,Roman Urdu,general_praise,Neutral,None
+P022,کپڑے کا معیار کیسا ہے؟,Urdu,fabric_quality,Neutral,None
+P021,The size fits perfectly.,English,sizing,Positive,Low
+P015,"Discount bohat acha hai, order karungi.",Roman Urdu,discount,Positive,High
+P012,Fabric ki quality bohat achi hai.,Roman Urdu,fabric_quality,Positive,Low
+P002,Price quality ke hisaab se achi hai.,Roman Urdu,price,Positive,High
+P021,The design looks different from the pictures.,English,general_praise,Negative,None
+P015,کپڑے کا معیار کیسا ہے؟,Urdu,fabric_quality,Neutral,Low
+P015,Can you share more pictures?,English,general_praise,Neutral,None
+P020,Is this available in Karachi?,English,availability,Neutral,Low
+P004,Pictures mein design different lag raha tha.,Roman Urdu,general_praise,Negative,Low
+P017,"Great discount, definitely worth buying!",English,discount,Positive,Low
+P015,How is the fabric quality?,English,fabric_quality,Neutral,None
+P012,Size bilkul perfect hai.,Roman Urdu,sizing,Positive,High
+P021,"Discount bohat acha hai, order karungi.",Roman Urdu,discount,Positive,High
+P018,"Discount bohat acha hai, order karungi.",Roman Urdu,discount,Positive,High
+P011,What is the price of this suit?,English,price,Neutral,Low
+P010,Koi discount available hai?,Roman Urdu,discount,Neutral,High
+P020,Discount bohat kam hai.,Roman Urdu,discount,Negative,None
+P021,This dress is absolutely beautiful!,English,general_praise,Positive,High
+P021,"Discount bohat acha hai, order karungi.",Roman Urdu,discount,Positive,High
+P012,The size fits perfectly.,English,sizing,Positive,Low
+P025,Glad this design is back in stock!,English,availability,Positive,High
+P003,The size is smaller than expected.,English,sizing,Negative,Low
+P022,سائز توقع سے چھوٹا نکلا۔,Urdu,sizing,Negative,Low
+P020,Glad this design is back in stock!,English,availability,Positive,High
+P024,Acha hua ye design dobara available hai.,Roman Urdu,availability,Positive,High
+P015,کپڑے کا معیار بہت اچھا ہے۔,Urdu,fabric_quality,Positive,Low
+P008,Fabric ki quality bohat achi hai.,Roman Urdu,fabric_quality,Positive,High
+P012,Discount bohat kam hai.,Roman Urdu,discount,Negative,None
+P025,کیا چھوٹے اور درمیانے سائز دستیاب ہیں؟,Urdu,sizing,Neutral,None
+P014,پچھلے ہفتے آرڈر کیا تھا، ابھی تک پارسل نہیں آیا۔,Urdu,delivery,Negative,Low
+P009,Is suit ki price kya hai?,Roman Urdu,price,Neutral,None
+P004,The discount is too small.,English,discount,Negative,None
+P003,Bohat khoobsurat dress hai.,Roman Urdu,general_praise,Positive,High
+P014,The price is too expensive.,English,price,Negative,None
+P012,Price quality ke hisaab se achi hai.,Roman Urdu,price,Positive,Low
+P008,Mera size hamesha out of stock hota hai.,Roman Urdu,availability,Negative,Low
+P001,سائز توقع سے چھوٹا نکلا۔,Urdu,sizing,Negative,None
+P005,Meri delivery time par mil gayi.,Roman Urdu,delivery,Positive,High
+P025,کیا کوئی ڈسکاؤنٹ دستیاب ہے؟,Urdu,discount,Neutral,High
+P003,The price seems reasonable for this design.,English,price,Positive,Low
+P004,Bohat khoobsurat dress hai.,Roman Urdu,general_praise,Positive,High
+P002,میرا آرڈر وقت پر پہنچ گیا۔,Urdu,delivery,Positive,Low
+P003,Price bohat zyada hai.,Roman Urdu,price,Negative,Low
+P021,کپڑے کا معیار کیسا ہے؟,Urdu,fabric_quality,Neutral,Low
+P010,Acha hua ye design dobara available hai.,Roman Urdu,availability,Positive,High
+P019,اچھا ہوا یہ ڈیزائن دوبارہ دستیاب ہے۔,Urdu,availability,Positive,High
+P017,سائز بالکل درست ہے۔,Urdu,sizing,Positive,High
+P013,اس کی مزید تصاویر شیئر کر دیں۔,Urdu,general_praise,Neutral,None
+P012,Small aur medium dono available hain?,Roman Urdu,sizing,Neutral,High
+P012,ڈیلیوری کتنے دن میں ہوگی؟,Urdu,delivery,Neutral,Low
+P025,Fabric kaisa hai?,Roman Urdu,fabric_quality,Neutral,Low
+P002,کیا چھوٹے اور درمیانے سائز دستیاب ہیں؟,Urdu,sizing,Neutral,High
+P025,کیا کوئی ڈسکاؤنٹ دستیاب ہے؟,Urdu,discount,Neutral,Low
+P021,"Ordered last week, still waiting for delivery.",English,delivery,Negative,None
+P002,The size fits perfectly.,English,sizing,Positive,High
+P011,کیا چھوٹے اور درمیانے سائز دستیاب ہیں؟,Urdu,sizing,Neutral,Low
+P009,What is the price of this suit?,English,price,Neutral,Low
+P012,اس کی مزید تصاویر شیئر کر دیں۔,Urdu,general_praise,Neutral,None
+P009,Is suit ki price kya hai?,Roman Urdu,price,Neutral,Low
+P024,Mera size hamesha out of stock hota hai.,Roman Urdu,availability,Negative,None
+P006,Ye Karachi mein available hai?,Roman Urdu,availability,Neutral,None
+P009,Bohat khoobsurat dress hai.,Roman Urdu,general_praise,Positive,High
+P014,The fabric quality is disappointing.,English,fabric_quality,Negative,None
+P011,قیمت مناسب لگ رہی ہے۔,Urdu,price,Positive,Low
+P010,Ye Karachi mein available hai?,Roman Urdu,availability,Neutral,High
+P023,Glad this design is back in stock!,English,availability,Positive,Low
+P020,Glad this design is back in stock!,English,availability,Positive,High
+P022,بہت اچھا ڈسکاؤنٹ ہے۔,Urdu,discount,Positive,High
+P001,پچھلے ہفتے آرڈر کیا تھا، ابھی تک پارسل نہیں آیا۔,Urdu,delivery,Negative,None
+P002,میرا آرڈر وقت پر پہنچ گیا۔,Urdu,delivery,Positive,Low
+P012,My size is always out of stock.,English,availability,Negative,Low
+P022,Mera size hamesha out of stock hota hai.,Roman Urdu,availability,Negative,None
+P025,قیمت کتنی ہے؟,Urdu,price,Neutral,Low
+P013,Do you have small and medium sizes?,English,sizing,Neutral,High
+P001,بہت اچھا ڈسکاؤنٹ ہے۔,Urdu,discount,Positive,Low
+P018,Price quality ke hisaab se achi hai.,Roman Urdu,price,Positive,Low
+P007,Fabric ki quality bohat achi hai.,Roman Urdu,fabric_quality,Positive,High
+P004,Last week order kiya tha abhi tak parcel nahi aya.,Roman Urdu,delivery,Negative,Low
+P023,میرا سائز ہمیشہ دستیاب نہیں ہوتا۔,Urdu,availability,Negative,None
+P022,کیا چھوٹے اور درمیانے سائز دستیاب ہیں؟,Urdu,sizing,Neutral,None
+P010,سائز توقع سے چھوٹا نکلا۔,Urdu,sizing,Negative,Low
+P012,The fabric quality looks amazing.,English,fabric_quality,Positive,High
+P008,Iski aur pictures share kar dein.,Roman Urdu,general_praise,Neutral,None
+P015,The design looks different from the pictures.,English,general_praise,Negative,Low
+P003,سائز بالکل درست ہے۔,Urdu,sizing,Positive,Low
+P017,کیا یہ ڈیزائن دستیاب ہے؟,Urdu,availability,Neutral,High
+P005,Small aur medium dono available hain?,Roman Urdu,sizing,Neutral,Low
+P022,کپڑے کا معیار بہت اچھا ہے۔,Urdu,fabric_quality,Positive,High
+P025,My order arrived on time.,English,delivery,Positive,High
+P017,My order arrived on time.,English,delivery,Positive,Low
+P023,میرا آرڈر وقت پر پہنچ گیا۔,Urdu,delivery,Positive,Low
+P003,سائز بالکل درست ہے۔,Urdu,sizing,Positive,Low
+P005,بہت اچھا ڈسکاؤنٹ ہے۔,Urdu,discount,Positive,High
+P017,بہت اچھا ڈسکاؤنٹ ہے۔,Urdu,discount,Positive,High
+P006,کیا کوئی ڈسکاؤنٹ دستیاب ہے؟,Urdu,discount,Neutral,Low
+P019,The price is too expensive.,English,price,Negative,Low
+P002,Koi discount available hai?,Roman Urdu,discount,Neutral,None
+P007,اس کی مزید تصاویر شیئر کر دیں۔,Urdu,general_praise,Neutral,Low
+P016,کیا کوئی ڈسکاؤنٹ دستیاب ہے؟,Urdu,discount,Neutral,Low
+P016,پچھلے ہفتے آرڈر کیا تھا، ابھی تک پارسل نہیں آیا۔,Urdu,delivery,Negative,None
+P010,Glad this design is back in stock!,English,availability,Positive,High
+P015,Is this available in Karachi?,English,availability,Neutral,Low
+P020,میرا آرڈر وقت پر پہنچ گیا۔,Urdu,delivery,Positive,Low
+P024,Bohat khoobsurat dress hai.,Roman Urdu,general_praise,Positive,High
+P025,Do you have small and medium sizes?,English,sizing,Neutral,Low
+P008,Acha hua ye design dobara available hai.,Roman Urdu,availability,Positive,High
+P005,Price quality ke hisaab se achi hai.,Roman Urdu,price,Positive,Low
+P008,Pictures mein design different lag raha tha.,Roman Urdu,general_praise,Negative,None
+P007,بہت خوبصورت ڈریس ہے۔,Urdu,general_praise,Positive,Low
+P016,Do you have small and medium sizes?,English,sizing,Neutral,Low
+P017,My size is always out of stock.,English,availability,Negative,None
+P002,قیمت مناسب لگ رہی ہے۔,Urdu,price,Positive,Low
+P010,The fabric quality looks amazing.,English,fabric_quality,Positive,Low
+P005,Small aur medium dono available hain?,Roman Urdu,sizing,Neutral,Low
+P002,اچھا ہوا یہ ڈیزائن دوبارہ دستیاب ہے۔,Urdu,availability,Positive,High
+P012,Fabric ki quality bohat achi hai.,Roman Urdu,fabric_quality,Positive,Low
+P025,کپڑے کا معیار بہت اچھا ہے۔,Urdu,fabric_quality,Positive,High
+P005,Price quality ke hisaab se achi hai.,Roman Urdu,price,Positive,Low
+P025,میرا آرڈر وقت پر پہنچ گیا۔,Urdu,delivery,Positive,Low
+P017,The price seems reasonable for this design.,English,price,Positive,Low
+P016,کپڑے کا معیار کیسا ہے؟,Urdu,fabric_quality,Neutral,Low
+P011,Fabric ki quality bohat achi hai.,Roman Urdu,fabric_quality,Positive,Low
+P019,کیا چھوٹے اور درمیانے سائز دستیاب ہیں؟,Urdu,sizing,Neutral,None
+P016,Koi discount available hai?,Roman Urdu,discount,Neutral,High
+P012,Small aur medium dono available hain?,Roman Urdu,sizing,Neutral,None
+P010,تصاویر میں ڈیزائن مختلف لگ رہا تھا۔,Urdu,general_praise,Negative,Low
+P020,اچھا ہوا یہ ڈیزائن دوبارہ دستیاب ہے۔,Urdu,availability,Positive,High
+P024,What is the price of this suit?,English,price,Neutral,None
+P021,Koi discount available hai?,Roman Urdu,discount,Neutral,High
+P022,میرا آرڈر وقت پر پہنچ گیا۔,Urdu,delivery,Positive,High
+P007,Price quality ke hisaab se achi hai.,Roman Urdu,price,Positive,High
+P014,بہت اچھا ڈسکاؤنٹ ہے۔,Urdu,discount,Positive,Low
+P024,"Great discount, definitely worth buying!",English,discount,Positive,High
+P018,Size expected se chota nikla.,Roman Urdu,sizing,Negative,None
+P011,ڈیلیوری کتنے دن میں ہوگی؟,Urdu,delivery,Neutral,None
+P018,کیا چھوٹے اور درمیانے سائز دستیاب ہیں؟,Urdu,sizing,Neutral,None
+P021,اس کی مزید تصاویر شیئر کر دیں۔,Urdu,general_praise,Neutral,None
+P007,Meri delivery time par mil gayi.,Roman Urdu,delivery,Positive,High
+P010,This dress is absolutely beautiful!,English,general_praise,Positive,Low
+P011,اچھا ہوا یہ ڈیزائن دوبارہ دستیاب ہے۔,Urdu,availability,Positive,Low
+P010,قیمت کتنی ہے؟,Urdu,price,Neutral,Low
